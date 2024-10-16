@@ -2,6 +2,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=87CEFA&text=SEURTE&textBg=false&fontColor=ffffff&descAlign=17&descAlignY=100&stroke=1D4DB2&reversal=true">
 </div>
 
+
+Hi, you can call me "sue". Sue from suerte! 
+
+I'm just University student form KOREA, so I often make errors. 
+
+SO PLZ, BE KIND TO ME. 
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youaremysuerte&show_icons=true&theme=defuault)
 
 Learned :: <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> 
