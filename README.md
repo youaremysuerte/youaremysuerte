@@ -11,6 +11,3 @@ Learning ::
 Interested in :: <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
 
 Working on :: <img src="https://img.shields.io/badge/Intel-Core_i7_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white"> <img src="https://img.shields.io/badge/NVIDIA-GTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"> 
-
-<img src="  ">
-
